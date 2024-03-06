@@ -1,5 +1,6 @@
-This is a Simple SIP Calculator.
+SIP CALCULATOR
 
+This is a Simple SIP Calculator.
 Please enter the following details:
 - Monthly principal deployment
 - Yearly interest earned on principal

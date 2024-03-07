@@ -7,3 +7,4 @@ Please enter the following details:
 - Tenure of Investment
 
 This calculator will compute the SIP returns after the investment tenure ends.
+
